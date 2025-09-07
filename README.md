@@ -16,5 +16,5 @@
 - Java, Javascript, Clojure, Rust
 
 ## SNS
-- (유튜브 코딩하는오후)[https://www.youtube.com/@hobbyMett]
-- (블로그)[https://ohhoonim.blogspot.com/]
+- [유튜브 코딩하는오후](https://www.youtube.com/@hobbyMett)
+- [블로그](https://ohhoonim.blogspot.com/)
