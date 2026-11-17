@@ -17,3 +17,4 @@ Rust로 shift 중입니다.
 ## SNS
 - [유튜브 코딩하는오후](https://www.youtube.com/@hobbyMett)
 - [블로그](https://ohhoonim.blogspot.com/)
+- [웹 프로그래밍 개발자를 위한 Rust](https://ohhoonim.github.io/course-rust-for-webdev/)
